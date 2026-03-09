@@ -9,7 +9,7 @@ Built and evaluated language models (Bigram baseline and GPT-style transformers)
 
 ## Files
 - `Final_Project_Haiku(3).ipynb` – notebook with preprocessing, modeling, and evaluation
-- `Haiku Generation Report.pdf` – final project report
+- `AI & Machine Learning.pdf` – final project report
 
 ## Contributors
-Group university project completed with teammates.
+University project completed with 2 teammates.
